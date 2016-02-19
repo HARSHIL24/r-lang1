@@ -2,7 +2,7 @@
 
 #**SESSION OUTLINE** :-
 
-### [Session 1: Introduction to R and RStudio](BECOMING 0 TO 1 IN R_1.docx)
+### [Session 1: Introduction to R and RStudio](BECOMING 0 TO 1 IN R_1.pdf)
 
 **Pre-requisites for this class**
 
@@ -22,7 +22,7 @@
 
 •	Installing and Loading packages
 
-### [Session 2: Graphics and Visualization in R](BECOMING 0 TO 1 IN R_1.docx)
+### [Session 2: Graphics and Visualization in R](BECOMING 0 TO 1 IN R_1.pdf)
 
 **Topics Covered**
 
@@ -30,7 +30,7 @@
 
 •	ggplot2
 
-### [Session 3: Data Structures in R](BECOMING 0 TO 1 IN R_2.docx)
+### [Session 3: Data Structures in R](BECOMING 0 TO 1 IN R_2.pdf)
 
 **Topics Covered**
 
@@ -46,7 +46,7 @@
 
 •	Type casting and coercion
 
-### [Session 4: Data Munging in R - Part I](Data Munging in R - Part I.docx)
+### [Session 4: Data Munging in R - Part I](Data Munging in R - Part I.pdf)
 
 **Topics Covered**
 
@@ -58,13 +58,13 @@
 
 •	tidyr
 
-### [Session 5: Data Munging in R - Part II](Data Munging in R - Part 2.docx)
+### [Session 5: Data Munging in R - Part II](Data Munging in R - Part 2.pdf)
 
 **Topics Covered**
 
 •	dplyr
 
-### [Session 6:  Functions and ```apply``` family](Functions and Control Structures in R + apply family.docx)
+### [Session 6:  Functions and ```apply``` family](Functions and Control Structures in R + apply family.pdf)
 
 **Topics Covered**
 
