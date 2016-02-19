@@ -22,7 +22,7 @@
 
 •	Installing and Loading packages
 
-### [Session 2: Graphics and Visualization in R](BECOMING 0 TO 1 IN R_1.PDF)
+### [Session 2: Graphics and Visualization in R](BECOMING_0_TO_1_IN_R_2.PDF)
 
 **Topics Covered**
 
@@ -46,7 +46,7 @@
 
 •	Type casting and coercion
 
-### [Session 4: Data Munging in R - Part I](Data Munging in R - Part I.PDF)
+### [Session 4: Data Munging in R - Part I](Data_Munging_in_R_-_Part_2.PDF)
 
 **Topics Covered**
 
@@ -58,13 +58,13 @@
 
 •	tidyr
 
-### [Session 5: Data Munging in R - Part II](Data Munging in R - Part 2.PDF)
+### [Session 5: Data Munging in R - Part II](Data_Munging_in_R_-_Part_I.PDF)
 
 **Topics Covered**
 
 •	dplyr
 
-### [Session 6:  Functions and ```apply``` family](Functions and Control Structures in R + apply family.PDF)
+### [Session 6:  Functions and ```apply``` family](Functions and Control Structures in R + apply family.pdf)
 
 **Topics Covered**
 
