@@ -2,7 +2,7 @@
 
 #**SESSION OUTLINE** :-
 
-### [Session 1: Introduction to R and RStudio](BECOMING 0 TO 1 IN R_1.pdf)
+### [Session 1: Introduction to R and RStudio](BECOMING_0_TO_1_IN_R_1.PDF)
 
 **Pre-requisites for this class**
 
